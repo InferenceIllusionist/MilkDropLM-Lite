@@ -1,4 +1,4 @@
-# MilkDrop LM Lite
+# MilkDropLM Lite
 
 *Notebook Version: 1.1b - Gradio added*
 
